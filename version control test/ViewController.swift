@@ -15,6 +15,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    func someting (){
+        
+    }
+    
+    func version1 (){
+        
+    }
+    
 }
 
